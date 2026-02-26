@@ -1,5 +1,9 @@
 # Gnolabs
 
+<p align="center">
+  <img src="./assets/gnolabs-mark.svg" alt="Gnolabs mark" width="160" />
+</p>
+
 > Building practical AI operators for real-world execution.
 
 Gnolabs designs and ships agent systems that combine strategy, operations, and automation into production workflows.
